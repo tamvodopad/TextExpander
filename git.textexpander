@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>git</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gcd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-09T07:07:23Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2015-07-09T07:07:42Z</date>
+			<key>plainText</key>
+			<string>git checkout develop</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>AC761CC5-63EB-41D9-9784-CD4D1C49B04D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gsu</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-08T13:31:52Z</date>
+			<key>label</key>
+			<string>submodule update</string>
+			<key>modificationDate</key>
+			<date>2015-07-08T13:32:37Z</date>
+			<key>plainText</key>
+			<string>git submodule update</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>9A225809-9CAC-4204-80A3-77B081457668</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gcom</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-08T13:09:39Z</date>
+			<key>label</key>
+			<string>Commit with message to Git repository</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T13:08:50Z</date>
+			<key>plainText</key>
+			<string>git commit -m "[#%fill:redmine task%]%fill:message%"</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>F9F5C75A-85AC-4EDF-97C2-EB2261B73CC8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;tagr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-08T12:21:13Z</date>
+			<key>label</key>
+			<string>release tags</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T12:44:16Z</date>
+			<key>plainText</key>
+			<string>git tag -a v%| -m 'version ' </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>3EE9525F-7503-4A81-B158-AED990118368</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gcb</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-07-01T07:12:48Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2014-07-01T07:12:52Z</date>
+			<key>plainText</key>
+			<string>git checkout -b </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>F2270005-A6BC-489E-9106-18187CD8AECC</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gcm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-07-01T07:12:09Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2014-07-01T07:12:22Z</date>
+			<key>plainText</key>
+			<string>git checkout master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>03D564B1-3DE1-4A57-9986-016FCA6D419A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gst</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-07-01T07:11:51Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2015-07-08T13:32:42Z</date>
+			<key>plainText</key>
+			<string>git status</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>115008A4-FACD-4C3B-9135-FEE11FA45E29</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gpo</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-26T13:39:50Z</date>
+			<key>label</key>
+			<string>Push current branch to origin</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:08:23Z</date>
+			<key>plainText</key>
+			<string>git push origin</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>0FE931B8-AF7A-4A82-8AB3-7AABFC35BD60</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;ga</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-26T14:06:44Z</date>
+			<key>label</key>
+			<string>Add all files</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:07:03Z</date>
+			<key>plainText</key>
+			<string>git add .</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>08D745CE-BBC6-4B79-80F3-C3EA912DA203</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gpt</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-26T14:08:52Z</date>
+			<key>label</key>
+			<string>git push tags</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:09:10Z</date>
+			<key>plainText</key>
+			<string>git push --tags</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>33FE187C-CAA2-4001-853E-B99A2D2606CC</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gdb</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-26T14:10:13Z</date>
+			<key>label</key>
+			<string>Delete git branch</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:10:22Z</date>
+			<key>plainText</key>
+			<string>git push origin :%remote_branch%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>CD52DE28-EB28-4FEA-9C4E-3847FBFBBFF2</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gpall</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-26T14:16:45Z</date>
+			<key>label</key>
+			<string>Git pull all branch from origin</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:23:35Z</date>
+			<key>plainText</key>
+			<string>echo git branch -a | grep -v HEAD | perl -ne 'chomp($_); s|^\*?\s*||; if (m|(.+)/(.+)| &amp;&amp; not $d{$2}) {print qq(git branch --track $2 $1/$2\n)} else {$d{$_}=1}' | csh -xfs</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>47172116-00FA-406B-9256-0DA2264C513D</string>
+		</dict>
+	</array>
+</dict>
+</plist>

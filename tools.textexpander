@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Tools</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,date</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-10-21T17:49:47Z</date>
+			<key>label</key>
+			<string>Current Date</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T12:52:01Z</date>
+			<key>plainText</key>
+			<string>%d.%m.%Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>2F13CFBA-C194-44DD-A292-F7E859F85E39</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;dummy</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2010-08-03T18:45:58Z</date>
+			<key>label</key>
+			<string>Dummy Image</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:29:12Z</date>
+			<key>plainText</key>
+			<string>&lt;img src="http://placehold.it/%fill:width%x%fill:height%/333333/dddddd&amp;text=%fill:title%" alt="%fill:title%" width="%fill:width%" height="%fill:height%" /&gt;</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>1F8917BA-83DE-414F-8FB8-4A10513CCFD1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

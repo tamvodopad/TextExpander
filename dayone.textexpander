@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>dayone</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,dfilm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-26T12:56:01Z</date>
+			<key>label</key>
+			<string>Add Dayone Films Report</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T14:28:08Z</date>
+			<key>plainText</key>
+			<string>### Посмотрел:
+
+- </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>40F3A20B-C4B9-4B80-A0E5-89FAAEC92F7B</string>
+		</dict>
+	</array>
+</dict>
+</plist>
